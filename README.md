@@ -25,6 +25,7 @@ Cedula: 208730230
 
 * Al iniciar el programa, verás el menú principal en la consola de la siguiente manera:
 
+```text
 ==================================================
   SISTEMA DE GESTION DE PLANILLA HOSPITALARIA  
 ==================================================
